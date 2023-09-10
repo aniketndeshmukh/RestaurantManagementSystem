@@ -1,0 +1,4 @@
+May 15, 2023 10:44:51 PM billingsystem.Main start
+INFO: Root admin account 'admin' created on first time login.
+May 15, 2023 10:45:07 PM billingsystem.MainController constructMainScreen
+INFO: Order log created as no previous log found.

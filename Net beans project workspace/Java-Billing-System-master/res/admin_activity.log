@@ -1,0 +1,20 @@
+May 15, 2023 10:45:01 PM billingsystem.MainController handleLogin
+FINE: admin has logged into the system. 
+May 15, 2023 10:46:02 PM billingsystem.MainController$4$1 handle
+FINE: Added new menu Chicken thali into the system.
+May 15, 2023 10:46:36 PM billingsystem.MainController$4$1 handle
+FINE: Added new menu Roti into the system.
+May 15, 2023 10:47:05 PM billingsystem.MainController$4$1 handle
+FINE: Added new menu Butter naan into the system.
+May 15, 2023 10:47:30 PM billingsystem.MainController$4$1 handle
+FINE: Added new menu rice into the system.
+May 15, 2023 10:48:29 PM billingsystem.MainController$3$1 handle
+FINE: Added new user Kitchan of type Standard to the system.
+May 15, 2023 10:48:55 PM billingsystem.MainController$5 handle
+FINE: admin has logged out.
+May 16, 2023 12:01:33 PM billingsystem.MainController handleLogin
+FINE: admin has logged into the system. 
+May 16, 2023 12:01:47 PM billingsystem.MainController$7 handle
+FINE: Saved changes made at Table1
+May 16, 2023 4:20:18 PM billingsystem.MainController$5 handle
+FINE: admin has logged out.
